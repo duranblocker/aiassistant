@@ -1,0 +1,2 @@
+# aiassistant
+Docker autogpt image 
